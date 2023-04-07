@@ -1,0 +1,10 @@
+D:\Documents\vscode\cs\tetris\tetris\bin\Debug\tetris.exe.config
+D:\Documents\vscode\cs\tetris\tetris\bin\Debug\tetris.exe
+D:\Documents\vscode\cs\tetris\tetris\bin\Debug\tetris.pdb
+D:\Documents\vscode\cs\tetris\tetris\obj\Debug\tetris.csproj.AssemblyReference.cache
+D:\Documents\vscode\cs\tetris\tetris\obj\Debug\tetris.csproj.SuggestedBindingRedirects.cache
+D:\Documents\vscode\cs\tetris\tetris\obj\Debug\tetris.Properties.Resources.resources
+D:\Documents\vscode\cs\tetris\tetris\obj\Debug\tetris.csproj.GenerateResource.cache
+D:\Documents\vscode\cs\tetris\tetris\obj\Debug\tetris.csproj.CoreCompileInputs.cache
+D:\Documents\vscode\cs\tetris\tetris\obj\Debug\tetris.exe
+D:\Documents\vscode\cs\tetris\tetris\obj\Debug\tetris.pdb
