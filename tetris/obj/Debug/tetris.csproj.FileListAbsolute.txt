@@ -8,3 +8,4 @@ D:\Documents\vscode\cs\tetris\tetris\obj\Debug\tetris.csproj.GenerateResource.ca
 D:\Documents\vscode\cs\tetris\tetris\obj\Debug\tetris.csproj.CoreCompileInputs.cache
 D:\Documents\vscode\cs\tetris\tetris\obj\Debug\tetris.exe
 D:\Documents\vscode\cs\tetris\tetris\obj\Debug\tetris.pdb
+D:\Documents\vscode\cs\tetris\tetris\obj\Debug\tetris.Form1.resources
